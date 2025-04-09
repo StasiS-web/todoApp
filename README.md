@@ -6,8 +6,21 @@ It is a nice-looking web Portfolio that includes all my skills and knowledge in 
 * React + Vite
 * JavaScript
 
-Currently, two official plugins are available:
+This project official plugins are available:
 
 * [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 * [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Start the Project
+
+Create my React with Vite ptoject using 
+    npm create vite@latest 
+
+Go to the project folder
+    cd todoApp 
+
+Install all the project dependeces
+    npm install 
+
+Start this project
+    npm run dev
